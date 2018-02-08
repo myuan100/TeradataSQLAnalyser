@@ -1,0 +1,1 @@
+# TeradataSQLAnalyser
